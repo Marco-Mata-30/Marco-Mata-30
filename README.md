@@ -40,5 +40,3 @@ Estou em constante evolução, sempre buscando novos conhecimentos, ferramentas 
 </div>
 
 ---
-
-![Snake animation](https://github.com/Marco-Mata-30/Marco-Mata-30/blob/output/github-contribution-grid-snake.svg)
