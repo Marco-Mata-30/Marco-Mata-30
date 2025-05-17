@@ -20,7 +20,8 @@ Estou em constante evolução, sempre buscando novos conhecimentos, ferramentas 
   <img align="center" alt="Marco-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />   
   <img align="center" alt="Marco-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img align="center" alt="Marco-Sklearn" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
-  <img align="center" alt="Marco-LaTeX" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-plain.svg" />
+  <img align="center" alt="Marco-Latex" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" />
+
 </div>
 
 ---
