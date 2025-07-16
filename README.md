@@ -1,8 +1,8 @@
 ## 👋 Olá! Sou Marco Antonio Silva da Mata — ou simplesmente "MM". Seja muito bem-vindo(a) ao meu perfil!
 
-Sou estudante da Universidade Federal do ABC (UFABC), onde curso Bacharelado em Ciência e Tecnologia, com ênfase em Ciência de Dados e Engenharia da Informação. Tenho grande interesse pelo universo dos dados e suas aplicações no mundo real.
+Sou estudante da Universidade Federal do ABC (UFABC), onde curso Bacharelado em Ciência e Tecnologia, Ciência de Dados e Engenharia da Informação. Tenho grande interesse pelo universo dos dados e suas aplicações no mundo real.
 
-Atualmente, trabalho no Itaú Unibanco como estagiário na área de Cartões, no time BT Satisfação e Jornada do Cliente. Atuo na análise e coleta de dados relacionados à experiência do cliente, contribuindo com insights que apoiam a tomada de decisões estratégicas.
+Trabalhei no Itaú Unibanco durante 1 ano como estagiário na área de Cartões, no time BT Satisfação e Jornada do Cliente. Atuei na análise e coleta de dados relacionados à experiência do cliente, contribuindo com insights que apoiam a tomada de decisões estratégicas.
 
 Estou em constante evolução, sempre buscando novos conhecimentos, ferramentas e boas práticas no campo da ciência de dados. Acredito no poder transformador dos dados para gerar impacto positivo e orientar decisões com inteligência.
 
