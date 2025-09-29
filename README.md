@@ -1,4 +1,4 @@
-## 👋 Olá! Sou Marco Antonio Silva da Mata — ou simplesmente "MM". Seja muito bem-vindo(a) ao meu perfil!
+## Me chamo Marco Antonio Silva da Mata. Bem-vindo(a) ao meu perfil!
 
 Sou estudante da Universidade Federal do ABC (UFABC), onde curso Bacharelado em Ciência e Tecnologia, Ciência de Dados e Engenharia da Informação. Tenho grande interesse pelo universo dos dados e suas aplicações no mundo real.
 
