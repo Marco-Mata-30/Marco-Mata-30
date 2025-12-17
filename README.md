@@ -2,7 +2,7 @@
 
 Sou estudante da Universidade Federal do ABC (UFABC), onde curso Bacharelado em Ciência e Tecnologia, Ciência de Dados e Engenharia da Informação. Tenho grande interesse pelo universo dos dados e suas aplicações no mundo real.
 
-Trabalhei no Itaú Unibanco durante 1 ano como estagiário na área de Cartões, no time BT Satisfação e Jornada do Cliente. Atuei na análise e coleta de dados relacionados à experiência do cliente, contribuindo com insights que apoiam a tomada de decisões estratégicas.
+Trabalho no Itaú Unibanco na áre de Crédito PF, Ciência de Dados. Atuo no acompanhamento de performance de modelos preditivos, desenvolvimento e manutenção de modelos além de estudos de análises para gerar insights sobre o público trabalhado.
 
 Estou em constante evolução, sempre buscando novos conhecimentos, ferramentas e boas práticas no campo da ciência de dados. Acredito no poder transformador dos dados para gerar impacto positivo e orientar decisões com inteligência.
 
